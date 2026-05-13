@@ -1,11 +1,15 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+### DATE:   13/05/2026                                                                         
+### REGISTER NUMBER : 212223230018
+
+### Aim:
+To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
+
 Procedure:
+
 ## 1.	Straightforward Prompts:
    QUESTION : Define photosynthesis in one sentence.
 #### CHATGPT: 
@@ -15,6 +19,8 @@ Photosynthesis is the process by which green plants use sunlight, water, and car
  Photosynthesis is the biological process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy in the form of glucose by reacting carbon dioxide with water.
 
 ## 2.	Tabular Format Prompts:
+
+  QUESTION : Compare and contrast AC and DC current in a table.
 ### CHATGPT: 
 #### Comparison of AC and DC Current
 
@@ -46,7 +52,7 @@ Alternating Current (AC) and Direct Current (DC) are the two primary ways electr
 | **Applications** | Household appliances (fridge, fan, AC). | Portable electronics (phones, laptops, EVs). |
 ---
 ## 3. Preceding Question Prompts:
-
+ QUESTION : Why is climate change a global concern? Explain how greenhouse gases contribute to global warming.
 #### CHATGPT: 
 Climate change is a global concern because it affects the environment, human health, agriculture, water resources, and economies across all countries. Rising global temperatures can lead to extreme weather events, melting glaciers, rising sea levels, droughts, floods, and loss of biodiversity. Since the effects spread beyond national borders, international cooperation is necessary to address the problem.
 
@@ -72,7 +78,33 @@ Major Greenhouse Gases
 
 
 
+## 4. Missing Word *Prompting::
 
+  QUESTION : The largest planet in our solar system is ________.
+#### CHATGPT:
+ Jupiter.
 
-# Result: Thus the Prompts were exected succcessfully.
+#### GEMINI:
+
+The largest planet in our solar system is Jupiter.
+##### Key Facts About Jupiter : 
+
+Mass: It is more than twice as massive as all the other planets in the solar system combined.
+  
+  Composition: It is a gas giant, primarily composed of hydrogen and helium.
+  
+  Features: It is famous for its Great Red Spot, a giant storm that has been raging for centuries and is larger than Earth.
+  
+  Moons: Jupiter has 95 officially recognized moons, including Ganymede, the largest moon in the solar system.
+
+  ## Conclusion:
+   Both ChatGPT and Gemini generated accurate and relevant responses for all four prompting techniques. However, their response styles were different.
+
+ChatGPT provided concise, direct, and easy-to-understand answers, making it suitable for quick learning and academic purposes.
+Gemini provided more detailed explanations with additional information and examples, which is useful for deeper understanding and extended learning.
+
+Based on this evaluation, ChatGPT is better for clear and straightforward responses, while Gemini is better for detailed and descriptive explanations. Therefore, for this report and prompt engineering tasks, ChatGPT can be considered more effective for simple and precise outputs.
+
+# Result: 
+ Thus the Prompts were exected succcessfully.
 
